@@ -6,7 +6,7 @@ import json
 import time
 from bs4 import BeautifulSoup
 
-Webhook = "https://discord.com/api/webhooks/866823668109017128/prGFdrecYfTfwNTHWX_rmU73kvjHkxeoIsP9odaW24XnQ3oU-Y8-MYOjSieH12ulp8JV"
+Webhook = "https://discord.com/api/webhooks/xxxxx"
 
 ofertasAnteriores = []
 
